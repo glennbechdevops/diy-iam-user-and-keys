@@ -13,6 +13,6 @@ Du skal også bli kjent med AWS CLI ved å installere det på egen maskin, og ko
 
 ## Konfigurer AWS CLI 
 
-Kjør ```aws configure``` på maskinen med nøklene dine, og se at du for eksempel får lov til å gjøre en kommando 
+Kjør ```aws configure``` på maskinen med nøklene dine, bruk ```eu-west-1``` som region,  og se at du for eksempel får lov til å gjøre en kommando 
 som ```aws s3 ls``` for å liste S3 buckets
 
