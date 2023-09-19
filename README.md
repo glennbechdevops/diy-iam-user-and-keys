@@ -8,6 +8,7 @@ Du skal også bli kjent med AWS CLI ved å installere det på egen maskin, og ko
 
 ## Lag IAM nøkler i AWS kontoen din 
 
+* AWS pålogging https://244530008913.signin.aws.amazon.com/console
 * Gå til IAM tjenesten i IAM miljøet, finn brukeren din og lag nøkler 
 
 ## Konfigurer AWS CLI 
